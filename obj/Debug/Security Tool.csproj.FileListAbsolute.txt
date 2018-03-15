@@ -1,0 +1,48 @@
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Security Tool.csproj.GenerateResource.Cache
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Security Tool.csprojResolveAssemblyReference.cache
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Security Tool.exe.config
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Security Tool.exe
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Security Tool.pdb
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Security Tool.exe
+c:\users\micsoftvn\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Security Tool.pdb
+C:\code\WindowsFormsApp1\bin\Debug\Security Tool.exe.config
+C:\code\WindowsFormsApp1\bin\Debug\Security Tool.exe
+C:\code\WindowsFormsApp1\bin\Debug\Security Tool.pdb
+C:\code\WindowsFormsApp1\bin\Debug\mscorlib.dll
+C:\code\WindowsFormsApp1\bin\Debug\normidna.nlp
+C:\code\WindowsFormsApp1\bin\Debug\normnfc.nlp
+C:\code\WindowsFormsApp1\bin\Debug\normnfd.nlp
+C:\code\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+C:\code\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+C:\code\WindowsFormsApp1\obj\Debug\Security Tool.csprojResolveAssemblyReference.cache
+C:\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\code\WindowsFormsApp1\obj\Debug\Security Tool.csproj.GenerateResource.Cache
+C:\code\WindowsFormsApp1\obj\Debug\Security Tool.exe
+C:\code\WindowsFormsApp1\obj\Debug\Security Tool.pdb
+F:\Code Vip\Security Tool - Final\bin\Debug\Security Tool.exe.config
+F:\Code Vip\Security Tool - Final\bin\Debug\Security Tool.exe
+F:\Code Vip\Security Tool - Final\bin\Debug\Security Tool.pdb
+F:\Code Vip\Security Tool - Final\bin\Debug\mscorlib.dll
+F:\Code Vip\Security Tool - Final\bin\Debug\normidna.nlp
+F:\Code Vip\Security Tool - Final\bin\Debug\normnfc.nlp
+F:\Code Vip\Security Tool - Final\bin\Debug\normnfd.nlp
+F:\Code Vip\Security Tool - Final\bin\Debug\normnfkc.nlp
+F:\Code Vip\Security Tool - Final\bin\Debug\normnfkd.nlp
+F:\Code Vip\Security Tool - Final\obj\Debug\Security Tool.csprojResolveAssemblyReference.cache
+F:\Code Vip\Security Tool - Final\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Code Vip\Security Tool - Final\obj\Debug\Security Tool.csproj.GenerateResource.Cache
+F:\Code Vip\Security Tool - Final\obj\Debug\Security Tool.exe
+F:\Code Vip\Security Tool - Final\obj\Debug\Security Tool.pdb
+F:\Code Vip\Security Tool - Final\obj\Debug\WindowsFormsApp1.FormMain.resources
+F:\control-app\bin\Debug\Security Tool.exe.config
+F:\control-app\bin\Debug\Security Tool.exe
+F:\control-app\bin\Debug\Security Tool.pdb
+F:\control-app\obj\Debug\Security Tool.csprojResolveAssemblyReference.cache
+F:\control-app\obj\Debug\WindowsFormsApp1.FormMain.resources
+F:\control-app\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\control-app\obj\Debug\Security Tool.csproj.GenerateResource.Cache
+F:\control-app\obj\Debug\Security Tool.exe
+F:\control-app\obj\Debug\Security Tool.pdb
